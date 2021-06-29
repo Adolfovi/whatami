@@ -1,0 +1,70 @@
+#main{
+    padding: 20px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    /* background-color: lightcyan; */
+
+
+}
+
+.image-elefant{
+    width: 242px;
+    cursor: pointer;    
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.image-perro{
+    width: 214px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.image-gato{
+    width: 204px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+
+.image-raton{
+    width: 194px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.image-leon{
+    width: 216px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+
+h1{
+text-align: center;
+font-family: Comic Sans MS;
+}
+
+
+@media only screen and (max-width: 769px){
+        
+
+            #main{
+                    padding: 5px 5px 5px 5px;
+
+
+
+            }
+
+
+
+
+}
